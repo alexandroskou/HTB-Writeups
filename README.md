@@ -1,3 +1,3 @@
 # HTB-Writeups
 
-Personal Notes on retired HTB machines
+Personal notes on retired HTB machines
