@@ -1,3 +1,3 @@
 # HTB-Writeups
 
-Personal Notes on Pwnowned (Retired) HTB Machines
+Personal Notes on retired HTB machines
